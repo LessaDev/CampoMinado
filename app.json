@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "campoMinado",
+    "slug": "campoMinado",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
